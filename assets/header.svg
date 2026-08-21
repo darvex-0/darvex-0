@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="240">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+    
+    <linearGradient id="accent-cyan-purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="50%" stop-color="#4FACFE" />
+      <stop offset="100%" stop-color="#7928CA" />
+    </linearGradient>
+
+    <linearGradient id="badge-qa" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+
+    <linearGradient id="badge-dev" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+
+    <linearGradient id="badge-ai" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#6D28D9" />
+    </linearGradient>
+
+    <!-- Glow Effect -->
+    <filter id="glow-cyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1e293b" stroke-width="0.8" stroke-opacity="0.4" />
+    </pattern>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 38px; font-weight: 800; fill: #ffffff; letter-spacing: 0.5px; }
+    .subtitle { font-family: 'Fira Code', monospace, -apple-system, sans-serif; font-size: 14px; font-weight: 600; fill: #94a3b8; letter-spacing: 1px; }
+    .badge-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; font-weight: 700; fill: #ffffff; letter-spacing: 0.5px; }
+    .status-text { font-family: 'Fira Code', monospace, sans-serif; font-size: 12px; fill: #38bdf8; font-weight: 500; }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="900" height="240" rx="16" fill="url(#bg-grad)" stroke="#1e293b" stroke-width="1.5" />
+  
+  <!-- Subtle Tech Grid -->
+  <rect width="900" height="240" rx="16" fill="url(#grid)" />
+
+  <!-- Ambient Glow Circles -->
+  <circle cx="820" cy="40" r="120" fill="#00F2FE" opacity="0.08" filter="url(#glow-cyan)" />
+  <circle cx="80" cy="200" r="100" fill="#7928CA" opacity="0.1" filter="url(#glow-cyan)" />
+  <circle cx="450" cy="120" r="140" fill="#3B82F6" opacity="0.06" filter="url(#glow-cyan)" />
+
+  <!-- Decorative Top Accent Bar -->
+  <rect x="0" y="0" width="900" height="4" rx="2" fill="url(#accent-cyan-purple)" />
+
+  <!-- Left Cyber Visual Elements -->
+  <g transform="translate(45, 45)">
+    <!-- Terminal / Prompt Icon Visual -->
+    <rect width="36" height="36" rx="8" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <path d="M 12 14 L 18 18 L 12 22 M 20 22 L 24 22" fill="none" stroke="#00F2FE" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <!-- Main Headline -->
+  <text x="95" y="65" class="title">
+    Hey, I'm <tspan fill="url(#accent-cyan-purple)">Rakesh</tspan> 👋
+  </text>
+
+  <text x="95" y="92" class="subtitle">
+    &lt;darvex-0 /&gt; • ARCHITECTING RELIABLE CODE &amp; ASSURING QUALITY
+  </text>
+
+  <!-- Horizontal Tech Divider -->
+  <line x1="45" y1="120" x2="855" y2="120" stroke="#334155" stroke-width="1" stroke-dasharray="4,4" opacity="0.6" />
+
+  <!-- Role Badges -->
+  <!-- 1. Full Stack Dev -->
+  <g transform="translate(45, 145)">
+    <rect width="180" height="32" rx="8" fill="url(#badge-dev)" opacity="0.2" stroke="#3b82f6" stroke-width="1" />
+    <circle cx="16" cy="16" r="4" fill="#60a5fa" />
+    <text x="30" y="21" class="badge-text">💻 Full Stack Developer</text>
+  </g>
+
+  <!-- 2. Software Tester / SDET -->
+  <g transform="translate(240, 145)">
+    <rect width="210" height="32" rx="8" fill="url(#badge-qa)" opacity="0.2" stroke="#10b981" stroke-width="1" />
+    <circle cx="16" cy="16" r="4" fill="#34d399" />
+    <text x="30" y="21" class="badge-text">🧪 Software Tester (SDET)</text>
+  </g>
+
+  <!-- 3. AI & Computer Vision -->
+  <g transform="translate(465, 145)">
+    <rect width="195" height="32" rx="8" fill="url(#badge-ai)" opacity="0.2" stroke="#8b5cf6" stroke-width="1" />
+    <circle cx="16" cy="16" r="4" fill="#a78bfa" />
+    <text x="30" y="21" class="badge-text">🤖 AI &amp; Computer Vision</text>
+  </g>
+
+  <!-- 4. Real-time / WebRTC -->
+  <g transform="translate(675, 145)">
+    <rect width="180" height="32" rx="8" fill="#0f172a" stroke="#0ea5e9" stroke-width="1" />
+    <circle cx="16" cy="16" r="4" fill="#38bdf8" />
+    <text x="30" y="21" class="badge-text">⚡ Real-Time Systems</text>
+  </g>
+
+  <!-- Footer Live Status / Motto in SVG -->
+  <g transform="translate(45, 208)">
+    <circle cx="6" cy="6" r="4" fill="#10B981">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="20" y="10" class="status-text">Available for Full-Stack Development &amp; Test Automation Engagements</text>
+  </g>
+  
+  <text x="855" y="218" text-anchor="end" class="subtitle" font-size="11" fill="#64748b">
+    📍 Bengaluru, India • GitHub: @darvex-0
+  </text>
+</svg>

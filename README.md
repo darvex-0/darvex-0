@@ -1,17 +1,22 @@
 <div align="center">
 
-  <h1>⚡ Hey there, I'm Rakesh 👋</h1>
-  <h3>🚀 Full Stack Developer & Software Tester (SDET / QA Engineer)</h3>
+  <!-- Custom Native Vector Banner (Zero Dependency & 100% Reliable) -->
+  <img src="https://raw.githubusercontent.com/darvex-0/darvex-0/main/assets/header.svg" width="100%" alt="Rakesh - Full Stack Developer & Software Tester" />
 
-  <p align="center">
-    <a href="https://github.com/darvex-0">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=620&lines=Full+Stack+Developer+%26+Software+Tester;Automated+%26+Manual+Testing+%7C+E2E+%26+API+Validation;Building+Resilient%2C+Scalable+%26+Bug-Free+Apps;AI%2C+Computer+Vision+%26+Performance+Assurance;Ensuring+Flawless+Software+Quality+%26+Reliability" alt="Typing SVG" />
-    </a>
-  </p>
+  <br/><br/>
 
+  <!-- Dynamic Typing Subheading -->
+  <a href="https://github.com/darvex-0">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=650&lines=Full+Stack+Developer+%26+Software+Tester;Automated+%26+Manual+Testing+%7C+E2E+%26+API+Validation;Building+Resilient%2C+Scalable+%26+Bug-Free+Apps;AI%2C+Computer+Vision+%26+Performance+Assurance;Ensuring+Flawless+Software+Quality+%26+Reliability" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Quick Badges Bar -->
   <p align="center">
     <a href="https://github.com/darvex-0"><img src="https://img.shields.io/github/followers/darvex-0?label=Followers&style=for-the-badge&logo=github&color=0891b2&labelColor=0f172a" alt="GitHub Followers" /></a>
     <a href="https://github.com/darvex-0?tab=repositories"><img src="https://img.shields.io/github/stars/darvex-0?label=Stars&style=for-the-badge&logo=apachespark&color=f59e0b&labelColor=0f172a" alt="GitHub Stars" /></a>
+    <a href="https://github.com/darvex-0"><img src="https://komarev.com/ghpvc/?username=darvex-0&label=Profile%20Views&color=7928ca&style=for-the-badge" alt="Profile Views" /></a>
     <a href="mailto:rakeshpallamgod@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email" /></a>
   </p>
 
