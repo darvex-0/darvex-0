@@ -61,21 +61,23 @@ flowchart LR
 
 ---
 
-### 🏆 GitHub Trophies & Achievements
+### 🏆 GitHub Achievements & Badges
 
 <div align="center">
-  <a href="https://github.com/darvex-0">
-    <img src="https://github-profile-trophy.vercel.app/?username=darvex-0&theme=onedark&no-frame=false&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</div>
+
+| **Quickdraw** ⚡ | **Pull Shark** 🦈 | **Pair Extraordinaire** 👯 | **YOLO** 🚀 | **Starstruck** 🌟 | **Arctic Vault** ❄️ |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="75px" alt="Quickdraw" /> | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="75px" alt="Pull Shark" /> | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="75px" alt="Pair Extraordinaire" /> | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="75px" alt="YOLO" /> | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="75px" alt="Starstruck" /> | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="75px" alt="Arctic Code Vault" /> |
 
 <br />
 
-<div align="center">
-
-| **Quickdraw** ⚡ | **Pull Shark** 🦈 | **Pair Extraordinaire** 👯 | **YOLO** 🚀 | **Starstruck** 🌟 |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="70px" alt="Quickdraw" /> | <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a74d1.png" width="70px" alt="Pull Shark" /> | <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-7694a0e122e2.png" width="70px" alt="Pair Extraordinaire" /> | <img src="https://github.githubassets.com/assets/yolo-default-be0bbffec017.png" width="70px" alt="YOLO" /> | <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="70px" alt="Starstruck" /> |
+<p>
+  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-00F2FE?style=for-the-badge&logo=github" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/Achievement-Quickdraw-F59E0B?style=for-the-badge&logo=github" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-8B5CF6?style=for-the-badge&logo=github" alt="Pair Extraordinaire" />
+  <img src="https://img.shields.io/badge/Achievement-YOLO-EF4444?style=for-the-badge&logo=github" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Achievement-Starstruck-EC4899?style=for-the-badge&logo=github" alt="Starstruck" />
+</p>
 
 </div>
 
@@ -239,29 +241,31 @@ flowchart LR
 
 ---
 
-### 📊 GitHub Analytics & Activity
+### 📊 GitHub Analytics & Profile Overview
 
 <div align="center">
+
+  <a href="https://github.com/darvex-0">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darvex-0&theme=tokyonight" alt="GitHub Profile Details" />
+  </a>
+
+  <br/><br/>
+
   <table border="0">
     <tr>
       <td>
         <a href="https://github.com/darvex-0">
-          <img src="https://github-readme-stats.vercel.app/api?username=darvex-0&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&count_private=true" alt="darvex-0's GitHub Stats" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darvex-0&theme=tokyonight" alt="Stats" />
         </a>
       </td>
       <td>
         <a href="https://github.com/darvex-0">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=darvex-0&theme=tokyonight&hide_border=false&border_radius=8" alt="darvex-0's GitHub Streak" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darvex-0&theme=tokyonight" alt="Top Languages" />
         </a>
       </td>
     </tr>
   </table>
 
-  <br />
-
-  <a href="https://github.com/darvex-0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darvex-0&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&langs_count=8" alt="Top Languages" />
-  </a>
 </div>
 
 ---
