@@ -1,7 +1,9 @@
 <div align="center">
 
-  <!-- Custom Native Vector Banner (Zero Dependency & 100% Reliable) -->
-  <img src="https://raw.githubusercontent.com/darvex-0/darvex-0/main/assets/header.svg" width="100%" alt="Rakesh - Full Stack Developer & Software Tester" />
+  <!-- Custom High-DPI Header Banner (Embedded Local Asset - 100% Reliable) -->
+  <a href="https://github.com/darvex-0">
+    <img src="./assets/header.png" width="100%" alt="Rakesh - Full Stack Developer &amp; Software Tester" />
+  </a>
 
   <br/><br/>
 
