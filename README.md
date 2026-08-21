@@ -1,11 +1,13 @@
 <div align="center">
 
-  <!-- Header Banner / Typing SVG -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,23&height=220&section=header&text=Hey%20there,%20I'm%20Rakesh%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Tester%20%26%20QA%20Engineer&descAlignY=62&descFontSize=19" width="100%" />
+  <h1>⚡ Hey there, I'm Rakesh 👋</h1>
+  <h3>🚀 Full Stack Developer & Software Tester (SDET / QA Engineer)</h3>
 
-  <a href="https://github.com/darvex-0">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=620&lines=Full+Stack+Developer+%26+Software+Tester;Automated+%26+Manual+Testing+%7C+E2E+%26+API+Validation;Building+Resilient%2C+Scalable+%26+Bug-Free+Apps;AI%2C+Computer+Vision+%26+Performance+Assurance;Ensuring+Flawless+Software+Quality+%26+Reliability" alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <a href="https://github.com/darvex-0">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=620&lines=Full+Stack+Developer+%26+Software+Tester;Automated+%26+Manual+Testing+%7C+E2E+%26+API+Validation;Building+Resilient%2C+Scalable+%26+Bug-Free+Apps;AI%2C+Computer+Vision+%26+Performance+Assurance;Ensuring+Flawless+Software+Quality+%26+Reliability" alt="Typing SVG" />
+    </a>
+  </p>
 
   <p align="center">
     <a href="https://github.com/darvex-0"><img src="https://img.shields.io/github/followers/darvex-0?label=Followers&style=for-the-badge&logo=github&color=0891b2&labelColor=0f172a" alt="GitHub Followers" /></a>
@@ -294,7 +296,5 @@ flowchart LR
   <br/><br/>
   
   <p>⭐️ <i>Feel free to explore my repositories, open issues, and collaborate!</i></p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,23&height=100&section=footer" width="100%" />
 
 </div>
